@@ -1,0 +1,25 @@
+body{
+  min-height: 2000px;
+}
+.jumbotron {
+  padding top: 2rem;
+  background-color: #e4e1e1;
+}
+#project{
+background-color: #e4e1e1;
+}
+#about{
+  background-color: #061b5e;
+  color: azure;
+}
+section{
+  padding-top: 5rem;
+}
+#contact{
+  background-color: #061b5e;
+
+}
+footer{
+  background-color: #061b5e;
+
+}
